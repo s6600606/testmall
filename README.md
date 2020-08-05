@@ -1,4 +1,4 @@
-# xmgmail
+# testmail
 
 ## Project setup
 ```
@@ -24,3 +24,6 @@ npm run test
 ```
 npm run lint
 ```
+
+## 相关接口
+crmcar有测试用的接口
